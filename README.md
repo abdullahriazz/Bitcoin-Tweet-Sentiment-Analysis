@@ -79,18 +79,15 @@ The goal of this project is to analyze and visualize sentiment trends in tweets 
 ## Visualizations
 
 1. **Distribution of Sentiment Scores:**
-   ![Sentiment Score Distribution](images/sentiment_score_distribution.png)
+   ![Distribution of Sentiment Scores](https://github.com/user-attachments/assets/2f8c3cf8-1947-4086-b6c9-6b1f2b13871f)
 
 2. **Word Cloud of Most Frequent Terms:**
-   ![Word Cloud](images/word_cloud.png)
+   
+   ![Word Cloud of Most Frequent Terms](https://github.com/user-attachments/assets/676936de-62b9-4556-957c-748f17ba0c24)
 
 3. **Tweet Volume Over Time:**
-   ![Tweet Volume Over Time](C:\Users\abdul\Downloads\Tweet Volume Over TIme.png)
+   
+   ![Tweet Volume Over TIme](https://github.com/user-attachments/assets/36ea5987-4d23-4d81-9a74-749f378cfeb6)
 
-4. **Interactive Sentiment Scores Distribution:**
-   ![Sentiment Scores Distribution (Interactive)](images/sentiment_scores_distribution_interactive.html)
-
-5. **Interactive Tweet Volume Over Time:**
-   ![Tweet Volume Over Time (Interactive)](images/tweet_volume_over_time_interactive.html)
 
 For any questions or feedback, contact me at [abdullahriaz.work@gmail.com]([abdullahriaz.work@gmail.com).
