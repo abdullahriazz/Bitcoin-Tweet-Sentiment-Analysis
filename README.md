@@ -61,13 +61,7 @@ The goal of this project is to analyze and visualize sentiment trends in tweets 
 
 2. **Run the Analysis:**
 
-    Execute the PySpark script to perform the sentiment analysis:
-
-    ```bash
-    spark-submit sentiment_analysis.py
-    ```
-
-    Replace `sentiment_analysis.py` with the name of your script if different.
+    Execute the PySpark Jupyter Notebook to perform the sentiment analysis
 
 ## Results
 
