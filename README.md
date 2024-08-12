@@ -85,7 +85,7 @@ The goal of this project is to analyze and visualize sentiment trends in tweets 
    ![Word Cloud](images/word_cloud.png)
 
 3. **Tweet Volume Over Time:**
-   ![Tweet Volume Over Time](images/tweet_volume_over_time.png)
+   ![Tweet Volume Over Time](C:\Users\abdul\Downloads\Tweet Volume Over TIme.png)
 
 4. **Interactive Sentiment Scores Distribution:**
    ![Sentiment Scores Distribution (Interactive)](images/sentiment_scores_distribution_interactive.html)
